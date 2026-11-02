@@ -5,9 +5,6 @@
 *.db-wal
 *.db-shm
 
-# Processed datasets
-data/processed/
-
 # Python temporary files
 __pycache__/
 *.pyc
