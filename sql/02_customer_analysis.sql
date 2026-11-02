@@ -62,8 +62,3 @@ FROM customers
 GROUP BY customer_state
 HAVING COUNT(*) > 2000
 ORDER BY customer_count DESC;
-
-
-
-
-
